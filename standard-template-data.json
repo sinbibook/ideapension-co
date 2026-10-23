@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-10-22T02:39:43.925958042Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-10-23T05:38:34.656143921Z",
     "templateType": "trip_g",
     "propertyId": "dca9ba41-5231-41c2-b5f0-80b8fe5aef55",
     "homepageId": "01a15c25-ef86-79dc-a684-8942bc8721c3"
@@ -202,11 +202,44 @@
         ]
       },
       {
+        "id": "26a37fbb-d59a-4df1-b593-a0c6bf872d82",
+        "name": "공용바베큐",
+        "description": "",
+        "usageGuide": "- 이용 객실: 전 객실\n- 바베큐 형태: 바베큐그릴+숯\n- 이용 요금: 2인~4인 20,000원, 5인이상 30,000원 (1박기준/현장결제)\n- 신청 시간: ~20:00\n- 이용 시간: ~23:00\n- 우천 시 이용 가능\n- 동계 시 이용 가능",
+        "displayOrder": 3,
+        "images": [
+          {
+            "id": "01a16743-e6fc-705a-b5a5-33b42f953670",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/26a37fbb-d59a-4df1-b593-a0c6bf872d82/main/1792733864789-wfgkq5bltv.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a16743-e6f0-737e-9f70-3a4508624b66",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/26a37fbb-d59a-4df1-b593-a0c6bf872d82/main/1792733864746-gbfdmti6i1.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a16743-e6ce-7474-941b-22cc8105ab1c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/26a37fbb-d59a-4df1-b593-a0c6bf872d82/main/1792733864731-02k1syrkno.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
         "id": "31e65b3c-0694-4ba2-b8f5-7b9f43fd4e1f",
         "name": "부대시설",
         "description": "",
         "usageGuide": "[갯벌체험]\n- 도구지참\n\n[세미나실]",
-        "displayOrder": 5,
+        "displayOrder": 6,
         "images": [
           {
             "id": "01a15c25-e6ce-7e52-a9a7-9ee7e7e53b4e",
@@ -239,7 +272,7 @@
         "name": "편의 및 주변 시설",
         "description": "",
         "usageGuide": "- 와이파이 보유\n\n- 해변산책 펜션에서 도보 약 2분\n- 바다향기 수목원 펜션에서 차량 약 15분\n- 구봉도 펜션에서 차량 약 8분",
-        "displayOrder": 6,
+        "displayOrder": 7,
         "images": [
           {
             "id": "01a15c2d-23b5-716d-a434-e627b7c3bd1f",
